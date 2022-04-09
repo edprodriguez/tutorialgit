@@ -1,2 +1,0 @@
-cambio 1 archivo 2
-cambio 2 despues del primer commit
